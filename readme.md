@@ -1,5 +1,5 @@
 # Example Canopy tests
-Solution is a part of blog post available on https://blog.setapp.pl. The goal of an article is to explain what Canopy is and why is worth to use. 
+Solution is a part of blog post available on https://blog.setapp.pl. The goal of an article is to explain what Canopy is and why is worth to use. Solution is based on CanopyStarerKit Project, most of comments are also from this solution to leave some more information than just code.
 ## Steps to set enviroment
 * Install Canopy
     * Use package manager (https://www.nuget.org/packages/canopy/)
